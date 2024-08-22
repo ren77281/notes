@@ -1,0 +1,1 @@
+[03-storage1.pdf (cmu.edu)](https://15445.courses.cs.cmu.edu/fall2021/slides/03-storage1.pdf)

@@ -1,0 +1,2 @@
+链接：[剑指 Offer 61. 扑克牌中的顺子 - 力扣（LeetCode）](https://leetcode.cn/problems/bu-ke-pai-zhong-de-shun-zi-lcof/?envType=study-plan-v2&id=coding-interviews)
+如果要考虑特殊情况的话，这题会显得很复杂。由于大小王可以代替任何牌，所以我们只要保证除了大小王之外的牌，极值小于5即可

@@ -1,10 +1,8 @@
-![image.png](https://raw.githubusercontent.com/ren77281/pigco-image/main/img/202409222010221.png)
-
-![image.png](https://raw.githubusercontent.com/ren77281/pigco-image/main/img/202409222010139.png)
-![image.png](https://raw.githubusercontent.com/ren77281/pigco-image/main/img/202409222011160.png)
-
-
-![image.png](https://raw.githubusercontent.com/ren77281/pigco-image/main/img/202409222011318.png)
+![image.png](https://raw.githubusercontent.com/ren77281/pigco-image/main/img/202409232105442.png)
+![image.png](https://raw.githubusercontent.com/ren77281/pigco-image/main/img/202409232105463.png)
+![image.png](https://raw.githubusercontent.com/ren77281/pigco-image/main/img/202409232106869.png)
+![image.png](https://raw.githubusercontent.com/ren77281/pigco-image/main/img/202409232106126.png)
+![image.png](https://raw.githubusercontent.com/ren77281/pigco-image/main/img/202409232106219.png)
 
 八股，项目（问题+持续优化），算法（手撕+大厂笔试有难度），持续学习其他技能，投递简历
 

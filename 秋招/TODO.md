@@ -1,8 +1,8 @@
-![image.png](https://raw.githubusercontent.com/ren77281/pigco-image/main/img/202409232105442.png)
-![image.png](https://raw.githubusercontent.com/ren77281/pigco-image/main/img/202409232105463.png)
-![image.png](https://raw.githubusercontent.com/ren77281/pigco-image/main/img/202409232106869.png)
-![image.png](https://raw.githubusercontent.com/ren77281/pigco-image/main/img/202409232106126.png)
-![image.png](https://raw.githubusercontent.com/ren77281/pigco-image/main/img/202409232106219.png)
+![image.png](https://raw.githubusercontent.com/ren77281/pigco-image/main/img/202409240904363.png)
+![image.png](https://raw.githubusercontent.com/ren77281/pigco-image/main/img/202409240911893.png)
+
+![image.png](https://raw.githubusercontent.com/ren77281/pigco-image/main/img/202409242014240.png)
+![image.png](https://raw.githubusercontent.com/ren77281/pigco-image/main/img/202409242014444.png)
 
 八股，项目（问题+持续优化），算法（手撕+大厂笔试有难度），持续学习其他技能，投递简历
 
@@ -76,8 +76,6 @@ TLS/SSL 建连过程，建连中服务端证书哪来的
 市面上有一些 HTTPS 抓包的一些工具，你觉得他是怎么实现的，你觉得 HTTPS 能实现抓包嘛
 如果让你用 UDP 实现一个可靠的应用层网络，你怎么做，整个的具体流程是怎么样的？怎么实现？我们把它写成代码怎么写呢？
 滑动窗口的目的是什么
-拥塞控制有哪些算法
-快重传是什么意思
 
 
 如何在map中根据value进行排序
